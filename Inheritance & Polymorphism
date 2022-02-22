@@ -64,3 +64,8 @@ public class Method_overriding {
 
 	}
 
+================================================================================
+6. Example of Selenium in inheritance:
+i) Remote Webriver - Super class
+ii) Chromium WebDriver - Sub-Class
+iii) Chrome WebDriver - Child Class
